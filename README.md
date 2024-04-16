@@ -55,13 +55,15 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
 #### Key Findings
 
 1. **Impact of Vehicle Features on Price:**
+
 ![](images/coef_table.jpg)
+
    - **Odometer Reading:** Vehicles with lower mileage command higher prices.
    - **Transmission Type:** Non-standard transmissions are associated with higher prices, indicating niche appeal.
    - **Vehicle Type:** Trucks and luxury vehicles, including brands like Corvette and G-Class, are highly valued.
    - **Fuel Type:** Diesel vehicles might be less preferred, potentially impacting their pricing negatively.
 
-2. **Consumer Preferences and Segmentation:**
+3. **Consumer Preferences and Segmentation:**
 ![](images/segmentation.png)
    - **Price Sensitivity:** Varies significantly across segments, with some customers prioritizing newer, low-mileage cars, and others showing interest in older, more affordable options.
    - **Brand and Model Preferences:** Preferences for Ford, Chevrolet, and luxury brands like Mercedes-Benz were observed, with significant variation across different customer segments.
