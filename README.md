@@ -1,4 +1,7 @@
 # UC Berekeley ML/AI Practical Assignment 2
+## What drives the price of a car?
+
+![](images/kurt.jpeg)
 ### Executive Summary: Insights into Used Car Valuation
 
 #### Objective
