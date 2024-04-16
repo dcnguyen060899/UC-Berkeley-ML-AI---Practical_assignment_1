@@ -64,7 +64,6 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
    - **Fuel Type:** Diesel vehicles might be less preferred, potentially impacting their pricing negatively.
 
 3. **Consumer Preferences and Segmentation:**
-![](images/segmentation.png)
    - **Price Sensitivity:** Varies significantly across segments, with some customers prioritizing newer, low-mileage cars, and others showing interest in older, more affordable options.
    - **Brand and Model Preferences:** Preferences for Ford, Chevrolet, and luxury brands like Mercedes-Benz were observed, with significant variation across different customer segments.
    - **Vehicle Attributes:** Clean titles, automatic transmission, and gasoline fuel type are broadly preferred across all segments.
