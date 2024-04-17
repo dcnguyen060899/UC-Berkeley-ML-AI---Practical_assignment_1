@@ -63,10 +63,14 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
    - **Vehicle Type:** Trucks and luxury vehicles, including brands like Corvette and G-Class, are highly valued.
    - **Fuel Type:** Diesel vehicles might be less preferred, potentially impacting their pricing negatively.
 
-3. **Consumer Preferences and Segmentation:**
+2. **Consumer Preferences and Segmentation:**
    - **Price Sensitivity:** Varies significantly across segments, with some customers prioritizing newer, low-mileage cars, and others showing interest in older, more affordable options.
    - **Brand and Model Preferences:** Preferences for Ford, Chevrolet, and luxury brands like Mercedes-Benz were observed, with significant variation across different customer segments.
    - **Vehicle Attributes:** Clean titles, automatic transmission, and gasoline fuel type are broadly preferred across all segments.
+
+3. **Time Series Forecasting on Market Trends:**
+    - An ARIMA(1, 0, 0) model, refined by outlier removal, predicts a steady rise in used car prices over the next five years, though with some uncertainty in the long-term forecasts.
+    - The removal of early 20th-century price spikes from the data leads to more stable and narrower confidence intervals in the forecasts, indicating more reliable predictions.
 
 #### Recommendations
 
@@ -79,9 +83,12 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
    - Develop targeted marketing campaigns highlighting the key selling points of luxury and performance vehicles for high-end market segments.
    - For price-sensitive segments, emphasize the value proposition of older models and vehicles with higher mileage, focusing on affordability and utility.
    - Use insights from customer segmentation to tailor sales approaches, ensuring alignment with the preferences and priorities of different market segments.
-
+3. **Forward-Looking Sales Strategies:**
+    - Utilize time series forecasts to anticipate price trends, adjust pricing strategies proactively, and manage inventory levels accordingly.
+    - Prepare for potential market shifts indicated by long-term price trends, such as increased demand for certain vehicle types or features.
+    - Continuously monitor and update forecasting models with new data to maintain relevance and accuracy in predictions.
 #### Conclusion
-By aligning inventory and marketing strategies with the insights gained from the regression analysis and customer segmentation, the dealership can better meet consumer demands. Focusing on vehicles and features that are positively associated with higher prices—such as lower mileage, luxury branding, and specific vehicle types—can enhance the dealership's profitability and market positioning.
+By integrating the linear models, customer segmentation, and time series forecasting, we offer a robust strategy for dealership inventory management. A focus on vehicles and features that correlate with higher prices—such as lower mileage and luxury brands—will enhance dealership profitability. The addition of time series forecasting ensures that inventory strategies remain aligned with evolving market trends, providing a future-focused approach to dealership inventory and sales optimization.
 
 ##### P.S
 - Please refer to my note for further detail in data cleaning, modelling, evaluation and insights.
