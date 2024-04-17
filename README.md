@@ -43,12 +43,15 @@ Four Insights from the Visualization:
 
 #### Segmentation Visualization:
 ![](../images/n_component.png)
+
 - Around 150 n_component is optimal that capturing feature 95% variance.
 
 ![](images/elbow.png)
+
 - After four n_clusters, the number of cluster inertia start to flat out. So four appear to be the optimal clusters
 
 ![](images/segmentation.png)
+
 There is a clear 4 distinct segmentation in the market. Even when I tried to increase to 5, the centroid on the bottom right overlapping, an indication that 4 number of clusters are quite optimal.
 
 
