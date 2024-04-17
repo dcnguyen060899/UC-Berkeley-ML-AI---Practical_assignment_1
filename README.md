@@ -56,7 +56,7 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
 
 1. **Impact of Vehicle Features on Price:**
 
-![](images/coef_table.jpg)
+    ![](images/coef_table.jpg)
 
    - **Odometer Reading:** Vehicles with lower mileage command higher prices.
    - **Transmission Type:** Non-standard transmissions are associated with higher prices, indicating niche appeal.
