@@ -72,6 +72,8 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
     - An ARIMA(1, 0, 0) model, refined by outlier removal, predicts a steady rise in used car prices over the next five years, though with some uncertainty in the long-term forecasts.
     - The removal of early 20th-century price spikes from the data leads to more stable and narrower confidence intervals in the forecasts, indicating more reliable predictions.
 
+![](images/forecasting_no_outliers.jpg)
+
 #### Recommendations
 
 1. **Inventory Optimization:**
@@ -87,6 +89,7 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
     - Utilize time series forecasts to anticipate price trends, adjust pricing strategies proactively, and manage inventory levels accordingly.
     - Prepare for potential market shifts indicated by long-term price trends, such as increased demand for certain vehicle types or features.
     - Continuously monitor and update forecasting models with new data to maintain relevance and accuracy in predictions.
+    
 #### Conclusion
 By integrating the linear models, customer segmentation, and time series forecasting, we offer a robust strategy for dealership inventory management. A focus on vehicles and features that correlate with higher prices—such as lower mileage and luxury brands—will enhance dealership profitability. The addition of time series forecasting ensures that inventory strategies remain aligned with evolving market trends, providing a future-focused approach to dealership inventory and sales optimization.
 
