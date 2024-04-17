@@ -81,7 +81,7 @@ There is a clear 4 distinct segmentation in the market. Even when I tried to inc
    - Use insights from customer segmentation to tailor sales approaches, ensuring alignment with the preferences and priorities of different market segments.
 
 #### Conclusion
-By aligning inventory and marketing strategies with the insights gained from the regression analysis and customer segmentation, the dealership can better meet consumer demands. Focusing on vehicles and features that are positively associated with higher prices—such as lower mileage, luxury branding, and specific vehicle types—can enhance the dealership's profitability and market positioning.# UC-Berkeley-ML-AI---Practical_assignment_1
+By aligning inventory and marketing strategies with the insights gained from the regression analysis and customer segmentation, the dealership can better meet consumer demands. Focusing on vehicles and features that are positively associated with higher prices—such as lower mileage, luxury branding, and specific vehicle types—can enhance the dealership's profitability and market positioning.
 
 ##### P.S
 - Please refer to my note for further detail in data cleaning, modelling, evaluation and insights.
